@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @MoDahir248
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
+Building awesome things 
+
 
 <!---
 MoDahir248/MoDahir248 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
